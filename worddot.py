@@ -1,3 +1,4 @@
-a=input()
+#punctuator
+a=str(input())
 a=a+"."
 print(a)
